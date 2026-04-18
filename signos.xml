@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <simbolo>♈</simbolo>
+        <elemento>Fogo</elemento>
+        <regente>Marte</regente>
+        <descricao>Aries é o primeiro signo do zodíaco. Pessoas nascidas sob este signo são conhecidas por serem corajosas, aventureiras e apaixonadas. Têm grande energia e determinação para alcançar seus objetivos.</descricao>
+        <cor>Vermelho</cor>
+        <numeroSorte>1</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <simbolo>♉</simbolo>
+        <elemento>Terra</elemento>
+        <regente>Vênus</regente>
+        <descricao>Touro é um signo de terra, representando estabilidade e confiabilidade. Pessoas deste signo são práticas, pacientes e muito leais aos seus amigos e família. Valorizam conforto e segurança.</descricao>
+        <cor>Verde</cor>
+        <numeroSorte>6</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <simbolo>♊</simbolo>
+        <elemento>Ar</elemento>
+        <regente>Mercúrio</regente>
+        <descricao>Gêmeos é um signo de ar, conhecido pela comunicação e versatilidade. Pessoas deste signo são curiosas, inteligentes e adoram aprender coisas novas. São sociais e têm facilidade em fazer amizades.</descricao>
+        <cor>Amarelo</cor>
+        <numeroSorte>5</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <simbolo>♋</simbolo>
+        <elemento>Água</elemento>
+        <regente>Lua</regente>
+        <descricao>Câncer é um signo de água, representando emoção e intuição. Pessoas deste signo são sensíveis, protetoras e muito apegadas à família. Têm grande capacidade de empatia e compreensão.</descricao>
+        <cor>Prata</cor>
+        <numeroSorte>2</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <simbolo>♌</simbolo>
+        <elemento>Fogo</elemento>
+        <regente>Sol</regente>
+        <descricao>Leão é um signo de fogo, conhecido pela confiança e liderança. Pessoas deste signo são generosas, criativas e adoram estar no centro das atenções. Têm grande autoestima e carisma.</descricao>
+        <cor>Ouro</cor>
+        <numeroSorte>1</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <simbolo>♍</simbolo>
+        <elemento>Terra</elemento>
+        <regente>Mercúrio</regente>
+        <descricao>Virgem é um signo de terra, representando organização e perfeccionismo. Pessoas deste signo são analíticas, práticas e muito atentas aos detalhes. Valorizam a ordem e a eficiência.</descricao>
+        <cor>Marrom</cor>
+        <numeroSorte>5</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <simbolo>♎</simbolo>
+        <elemento>Ar</elemento>
+        <regente>Vênus</regente>
+        <descricao>Libra é um signo de ar, conhecido pelo equilíbrio e justiça. Pessoas deste signo são diplomáticas, artísticas e sociais. Buscam harmonia em seus relacionamentos e adoram beleza e estética.</descricao>
+        <cor>Azul Claro</cor>
+        <numeroSorte>6</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <simbolo>♏</simbolo>
+        <elemento>Água</elemento>
+        <regente>Plutão</regente>
+        <descricao>Escorpião é um signo de água, representando poder e mistério. Pessoas deste signo são intensas, apaixonadas e muito determinadas. Têm grande capacidade de regeneração e transformação.</descricao>
+        <cor>Vermelho Escuro</cor>
+        <numeroSorte>8</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <simbolo>♐</simbolo>
+        <elemento>Fogo</elemento>
+        <regente>Júpiter</regente>
+        <descricao>Sagitário é um signo de fogo, conhecido pela liberdade e otimismo. Pessoas deste signo são aventureiras, otimistas e adoram viajar. Buscam conhecimento e têm grande filosofia de vida.</descricao>
+        <cor>Roxo</cor>
+        <numeroSorte>3</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <simbolo>♑</simbolo>
+        <elemento>Terra</elemento>
+        <regente>Saturno</regente>
+        <descricao>Capricórnio é um signo de terra, representando disciplina e responsabilidade. Pessoas deste signo são ambiciosas, trabalhadoras e muito determinadas. Têm objetivos claros e trabalham duro para alcançá-los.</descricao>
+        <cor>Preto</cor>
+        <numeroSorte>8</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <simbolo>♒</simbolo>
+        <elemento>Ar</elemento>
+        <regente>Urano</regente>
+        <descricao>Aquário é um signo de ar, conhecido pela inovação e independência. Pessoas deste signo são visionárias, humanitárias e muito criativas. Valorizam a liberdade e buscam fazer diferença no mundo.</descricao>
+        <cor>Turquesa</cor>
+        <numeroSorte>7</numeroSorte>
+    </signo>
+
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <simbolo>♓</simbolo>
+        <elemento>Água</elemento>
+        <regente>Netuno</regente>
+        <descricao>Peixes é um signo de água, representando imaginação e compaixão. Pessoas deste signo são criativas, intuitivas e muito compassivas. Sonham muito e têm grande capacidade artística e espiritual.</descricao>
+        <cor>Verde Água</cor>
+        <numeroSorte>7</numeroSorte>
+    </signo>
+</signos>
